@@ -1,0 +1,38 @@
+_repo: Universal-peacefrom-a-womans-standpoint_69445
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Suttner, Bertha von
+    aliases:
+    - Von Suttner, Bertha
+    - Suttner, Bertha Felicie Sophie Kinsky, Freifrau von
+    - Kinsky, Bertha Felicie Sophie, Freifrau von Suttner
+    - Kinsky von Wchinitz und Tettau, Bertha Sophia Felicita, Gräfin
+    - Kinsky von Wchinitz und Tettau, Bertha Sophia Felicita, Grafin
+    - Süttner, Bertha von
+    birthdate: 1843
+    deathdate: 1914
+    gutenberg_agent_id: '7643'
+    url: http://www.gutenberg.org/2009/agents/7643
+    wikipedia:
+    - https://fi.wikipedia.org/wiki/Bertha_von_Suttner
+    - https://en.wikipedia.org/wiki/Bertha_von_Suttner
+description: ''
+gutenberg_issued: '2022-11-29'
+identifiers:
+  gutenberg: '69445'
+language: en
+pgterms:marc904: https://archive.org/details/jstor-25104846
+pgterms:marc905: 20210728210010vonsuttner
+pgterms:marc906: '1899'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: 'United States: The North American Review,1899.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Universal peace—from a woman’s standpoint
+url: http://www.gutenberg.org/ebooks/69445
