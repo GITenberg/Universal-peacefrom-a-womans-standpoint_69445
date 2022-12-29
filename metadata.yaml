@@ -1,5 +1,8 @@
 _repo: Universal-peacefrom-a-womans-standpoint_69445
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69445-h/images/cover.jpg
 creator:
   author:
     agent_name: Suttner, Bertha von
@@ -18,6 +21,8 @@ creator:
     - https://fi.wikipedia.org/wiki/Bertha_von_Suttner
     - https://en.wikipedia.org/wiki/Bertha_von_Suttner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69445#Universal-peacefrom-a-womans-standpoint
 gutenberg_issued: '2022-11-29'
 identifiers:
   gutenberg: '69445'
